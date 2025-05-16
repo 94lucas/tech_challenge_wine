@@ -1,0 +1,10 @@
+{
+    "dataWrangler.experiments.copilot.enabled": false,
+    "geminicodeassist.chat.collapseCodeBlocksByDefault": true,
+    "geminicodeassist.codeGenerationPaneViewEnabled": true,
+    "geminicodeassist.chat.enableStreaming": true,
+    "geminicodeassist.languages": [
+        "*",
+        "python"
+    ]
+}
